@@ -1,12 +1,12 @@
 {
-	"name": "@Integrikey/keystrike",
+	"name": "@lsig/keystrike",
 	"version": "0.1.0",
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Integrikey/api",
+		"url": "https://github.com/lsig/ks_npm",
 		"directory": "ks-npm"
 	},
 	"description": "Description of your package",
